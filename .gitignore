@@ -3,3 +3,6 @@
 
 # game data file
 data.txt
+
+# Virtual env
+venv/
