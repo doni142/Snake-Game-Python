@@ -6,3 +6,9 @@ data.txt
 
 # Virtual env
 venv/
+
+# osx
+.DS_Store
+
+# pycharm cache
+__pycache__/
